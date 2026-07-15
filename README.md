@@ -2,6 +2,10 @@
 
 A Java console application built for the **Runtime Polymorphism** assignment (DriveEasy Rentals problem statement). It demonstrates Inheritance, Method Overriding, Runtime Polymorphism, Dynamic Method Dispatch, Object Polymorphism, Upcasting, Downcasting, `instanceof`, `ClassCastException`, and the Open-Closed Principle.
 
+**Live Demo (Replit):** https://replit.com/@hellylalkiya/smart-vehicle-rental-system
+
+**Repository:** https://github.com/hellylalkiya-29/smart-vehicle-rental-system
+
 ## Class Design
 
 ```
